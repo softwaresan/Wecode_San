@@ -1,1 +1,5 @@
 hello my name is San
+
+linkedin: https://www.linkedin.com/in/san-samir-bba549240/
+github: https://github.com/softwaresan
+stack overflow: https://stackoverflow.com/users/19233384/san-samir
